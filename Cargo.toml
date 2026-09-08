@@ -12,3 +12,4 @@ edition = "2024"
 
 [workspace.dependencies]
 liquid-clob-core = { path = "crates/core" }
+elements = "0.27"
